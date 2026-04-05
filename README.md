@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shubham Yadav
 
-💻 Software Engineer | ⚙️ Go & Java Developer | ☁️ System Design Enthusiast | 🚀 Building Scalable Enterprise Platforms
+💻 Software Engineer | ⚙️ Go, Java, Python Developer | ☁️ System Design Enthusiast | 🚀 Building Scalable Enterprise Platforms
 
 I am a backend-focused engineer passionate about designing scalable systems, building high-performance APIs, and solving complex business problems across enterprise platforms.
 
