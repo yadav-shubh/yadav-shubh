@@ -64,8 +64,8 @@ Currently focused on **Go microservices, Java backend systems, GraphQL architect
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN  
-- 📧 Email: YOUR_EMAIL  
+- 💼 LinkedIn: https://www.linkedin.com/in/shubham-yadav-java/
+- 📧 Email: shybham36@gmail.com
 
 ---
 
