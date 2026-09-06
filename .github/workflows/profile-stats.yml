@@ -23,7 +23,7 @@ jobs:
           card: stats
           username: yadav-shubh
           path: profile/stats.svg
-          options: show_icons=true&theme=tokyonight
+          options: show_icons=true&theme=tokyonight&card_width=400
 
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@main
@@ -31,7 +31,7 @@ jobs:
           card: top-langs
           username: yadav-shubh
           path: profile/top-langs.svg
-          options: layout=compact&theme=tokyonight
+          options: layout=compact&theme=tokyonight&card_width=400
 
       - name: Generate Contribution Snake
         uses: Platane/snk/svg-only@v3
