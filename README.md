@@ -53,8 +53,18 @@ Currently focused on **Go microservices, Java backend systems, GraphQL architect
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+    width="450"
+    height="200"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+    width="450"
+    height="200"
+  />
 </p>
 
 ---
