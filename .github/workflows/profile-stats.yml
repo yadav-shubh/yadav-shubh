@@ -15,23 +15,25 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
-        uses: stats-organization/github-readme-stats-action@main
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           username: yadav-shubh
           path: profile/stats.svg
           options: show_icons=true&theme=tokyonight&card_width=400
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
-        uses: stats-organization/github-readme-stats-action@main
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           username: yadav-shubh
           path: profile/top-langs.svg
-          options: layout=compact&theme=tokyonight&card_width=400
+          options: layout=compact&langs_count=6&theme=tokyonight&card_width=400
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Contribution Snake
         uses: Platane/snk/svg-only@v3
